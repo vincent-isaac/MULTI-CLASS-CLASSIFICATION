@@ -6,6 +6,10 @@ To write a python program to implement the multi class classification algorithm 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner / Google Colab
 
+## Related Theoritical Concept:
+
+
+
 ## Algorithm
 1.
 2.
