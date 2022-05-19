@@ -1,5 +1,5 @@
 ### EX NO:03
-### DATE:
+### DATE: 11.04.2022
 # <p align="center">MULTI-CLASS-CLASSIFICATION<p/>
 ## AIM:
 
@@ -22,12 +22,12 @@ In multi-class classification, the neural network has the same number of output 
 4. Using a for loop, plot the points using scatter function.
 
 ## PROGRAM:
-
+```
+Program to implement the multi class classifier.
+Developed by: J Vincent isaac jeyaraj
+RegisterNumber: 212220230060
+```
 ```python
-
-#Program to implement the multi class classifier.
-#Developed by: J Vincent isaac jeyaraj
-#RegisterNumber: 212220230060
 
 from numpy import where
 from collections import Counter
